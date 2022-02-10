@@ -56,5 +56,6 @@ print (Y_pred)
 ## Sample Input and Output
 ![inp](./input.jpg)
 ![github logo](ulg.png)
+![github logo](graph.png)
 ## Result
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares.
